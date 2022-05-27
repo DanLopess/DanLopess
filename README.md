@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel Lopes</h1>
-<h3 align="center">Software Engineer & Machine Learning Enthusiast🌟.</h3>
+<h1>Hi 👋, I'm Daniel Lopes</h1>
+<h3>Software Engineer & Machine Learning Enthusiast🌟.</h3>
 
 
 <br>
