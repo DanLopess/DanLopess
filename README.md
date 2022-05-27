@@ -1,4 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Daniel Lopes</h1>
+<h3 align="center">Software Engineer & Machine Learning Enthusiast🌟.</h3>
+
+
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
+- 🌱 I’m currently working as a Software engineer and Doing a thesis on Machine Learning
+
+- 📫 How to reach me **danielramoslopes@hotmail.com**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/daniel-lopes-218134196/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Daniel Lopes" height="30" width="40" /></a> 
+</p>
+
 
 <!--
 **DanLopess/DanLopess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
