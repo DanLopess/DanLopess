@@ -4,7 +4,7 @@
 
 <br>
 
-- 🌱 I’m currently working as a Software engineer and Doing a thesis on Machine Learning
+- 🌱 I’m currently working as a Software engineer and Doing a thesis on Machine Learning and Data science
 
 - 📫 How to reach me **danielramoslopes@hotmail.com**
 
