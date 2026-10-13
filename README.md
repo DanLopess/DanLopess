@@ -4,7 +4,7 @@
 
 <br>
 
-- 🌱 I’m currently working as a Data Engineer at 42matters, and in my free time I'm researching and experimenting with machine learning and data science.
+- 🌱 I’m currently working as a Data Engineer at Similarweb, and in my free time I'm researching and experimenting with machine learning and data science.
 
 - 📫 How to reach me **danielramoslopes@hotmail.com**
 
